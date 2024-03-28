@@ -1,0 +1,43 @@
+Duration:
+Comment: 
+Activity:
+Description:
+
+Duration: 2 hours
+Comment: Engaged in an session to tackle the remaining problems related to decorators from w3resource.
+Activity:
+Description:
+Dedicated time to solve the remaining decorator problems provided by w3resource.
+Implemented decorators to address various programming challenges presented by the exercises.
+
+Duration: 2 hours
+Comment: Focused session dedicated to solving Python programming puzzles sourced from w3resource.
+Activity:
+Description:
+Engaged in solving a variety of Python programming puzzles provided by w3resource.
+Analyzed each puzzle carefully to understand the problem statement and requirements.
+Applied Python programming concepts, algorithms, and data structures to devise solutions for the puzzles.
+
+Duration: 1 hour
+Comment: Continued focused effort on solving Python programming puzzles sourced from w3resource.
+Activity:
+Description:
+Continued tackling Python programming puzzles from w3resource with sustained focus and determination.
+Persisted in analyzing and solving each puzzle, utilizing problem-solving skills and Python programming knowledge.
+Applied creative thinking and innovative approaches to overcome challenging aspects of the puzzles.
+
+Duration: 1 hour
+Comment: Guided session led by mentor Jignesh focusing on regular expressions (RegEx).
+Activity:
+Description:
+Received instruction and guidance from mentor Jignesh on various aspects of regular expressions.
+Covered fundamental RegEx operations including findall, search, split, and sub.
+Practiced using findall to extract multiple occurrences of a pattern within a string.
+Explored search to locate the first occurrence of a pattern in a string.
+Learned about split to tokenize strings based on a specified pattern.
+Studied sub for replacing occurrences of a pattern with specified text in a string.
+Engaged in hands-on exercises and examples provided by the mentor to reinforce understanding and proficiency with RegEx operations.
+Received feedback and clarification on any queries regarding RegEx usage and syntax.
+
+
+

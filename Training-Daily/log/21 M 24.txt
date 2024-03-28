@@ -1,0 +1,44 @@
+Duration: 1 hour
+Comment: Exploring virtual environments and package management in Python.
+Activity:
+Description:
+Learned how to create, activate, deactivate, and delete virtual environments.
+Explored package installation and removal within virtual environments.
+
+
+Duration: 1 hour
+Comment: Delving into the concept of decorators in Python.
+Activity:
+Description:
+Studied the use and implementation of decorators in Python functions.
+Practiced creating and applying decorators to functions.
+
+
+Duration: 40 minutes
+Comment: Understanding generators and their usage in Python.
+Activity:
+Description:
+Explored the concept of generators in Python.
+Learned how to create and utilize generators for iteration.
+
+Duration: 1 hour 20 minutes
+Comment: Completing decorator exercises sourced from w3resource.
+Activity:
+Description:
+Worked through various decorator exercises provided by w3resource.
+Practiced applying decorators to functions and methods to enhance functionality and behavior.
+
+Duration: 2 hours
+Comment: Engaged in a focused session to complete decorator exercises obtained from w3resource.
+Activity:
+Description:
+Explored different scenarios and applied decorators creatively to enhance functionality and code readability.
+
+Duration: 1 hour
+Comment: Dedicated time to explore inheritance, composition, and reinforcing understanding of today's topics.
+Activity:
+Description:
+Studied inheritance and composition concepts in Python, understanding their differences and use cases.
+Reviewed code examples and documentation related to today's topics to reinforce learning outcomes.
+
+
