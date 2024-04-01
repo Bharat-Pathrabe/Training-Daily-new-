@@ -1,0 +1,50 @@
+Duration: 3 hours
+Comment: Extended session dedicated to completing PYnative quizzes on random data generation and Python tips and tricks.
+Activity:
+Description:
+Engaged in quizzes on random data generation in Python, covering topics such as generating random numbers, strings, and lists.
+Explored practical applications of random data generation techniques in Python programming.
+Practiced applying Python tips and tricks to solve problems and improve coding efficiency.
+
+
+Duration: 1 hour
+Comment: Engaged in a quiz session provided by PythonGeeks, covering topics on Python variables and data types, data structures, and Booleans.
+Activity:
+Description:
+Participated in a quiz focusing on Python variables and data types, testing knowledge of variable declaration, data type assignment, and type conversion.
+Completed questions related to various data structures in Python, including lists, tuples, dictionaries, and sets, testing understanding of their properties and usage.
+Covered questions on Booleans in Python, including logical operators, truthiness, and falsiness.
+
+Duration: 1 hour
+Comment: Focused on participating in a quiz session provided by PythonGeeks, specifically covering topics related to Python strings and list comprehensions.
+Activity:
+Description:
+Engaged in a quiz session focusing on Python strings, covering topics such as string manipulation, methods, and formatting.
+Participated in questions related to list comprehensions, understanding their syntax, usage, and benefits in Python.
+Reviewed explanations provided for each question to reinforce understanding and clarify any misconceptions.
+
+
+Duration: 1 hour 30 minutes
+Comment: Engaged in a guided session led by mentor Jignesh, focusing on Git version control and the Model-View-Controller (MVC) architectural pattern.
+Activity:
+Description:
+Received instruction and guidance from mentor Jignesh on the fundamentals of Git version control, including concepts such as repositories, branches, commits, and merges.
+Learned best practices for using Git to manage and collaborate on software projects effectively.
+Explored the MVC architectural pattern, understanding its components (Model, View, Controller) and their respective roles in software development.
+Reviewed real-world examples and case studies to illustrate the practical application of Git and MVC in software development projects.
+Received feedback and guidance from mentor Jignesh on improving Git workflow and implementing MVC effectively in future projects.
+
+
+Duration: 1 hour 30 minutes
+Comment: Actively engaged in practicing Git commands and workflows as per the guidance received in the previous session.
+Activity:
+Description:
+Set up Git on the local development environment if not already done.
+Initialized a new Git repository for a project or used an existing one.
+Created branches to work on different features or fixes, following Git branching best practices.
+Committed changes to the repository, providing clear and descriptive commit messages.
+Explored Git commands such as git add, git commit, git push, git pull, git branch, git merge, etc.
+Practiced resolving merge conflicts if encountered during branch merging.
+Pushed changes to remote repositories like GitHub, GitLab, or Bitbucket.
+Explored additional Git functionalities as necessary based on project requirements or specific tasks.
+

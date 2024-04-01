@@ -1,0 +1,28 @@
+{
+  "states": [
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "largest_city": "Los Angeles",
+      "population": 39538223,
+      "area_sq_miles": 163696
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "largest_city": "Houston",
+      "population": 29145505,
+      "area_sq_miles": 268596
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "largest_city": "New York City",
+      "population": 20201249,
+      "area_sq_miles": 54556
+    }
+  ]
+}
