@@ -7,72 +7,79 @@
 
 class DictOperations:
     def __init__(self):
-        self.dictionary = {}
+        self.dict = {}
+    
+    def add_key_value(self,key,value):
+        self.dict[key] = value
+        print("\nKey-Value pair added Successfully")
 
-    def add_pair(self, key, value):
-        self.dictionary[key] = value
-
-    def remove_pair(self, key):
-        if key in self.dictionary:
-            del self.dictionary[key]
-            print("Key-value pair removed successfully.")
+    def remove_key_value(self,key):
+        if key in self.dict:
+            del self.dict[key]
+            print("\nKey-Value pair removed Successfully")
         else:
-            print("Key not found in the dictionary.")
-
-    def update_value(self, key, value):
-        if key in self.dictionary:
-            self.dictionary[key] = value
-            print("Value updated successfully.")
+            print("\nKey-Value pair not found")
+    
+    def update_key_value(self,key):
+        if key in self.dict:
+            new_value=input(f"\nEnter new value for {key}: ")
+            self.dict[key] = new_value
+            print(f"\nThe key {key} successfully updated")
         else:
-            print("Key not found in the dictionary.")
+            print("\nRequested key not found")
+    
+    def check_key_value(self,key):
+        if key in self.dict:
+            print(f"\nRequested key exist")
+        else:
+            print("\nRequested key does not exist")
 
-    def check_key(self, key):
-        return key in self.dictionary
+    def retrieve_key(self):
+        return list(self.dict.keys())
+    
+    def retrieve_value(self):
+        return list(self.dict.values())
 
-    def get_all_keys(self):
-        return list(self.dictionary.keys())
-
-    def get_all_values(self):
-        return list(self.dictionary.values())
-
-
-# Example usage:
-dict_ops = DictOperations()
-
+dict_oper=DictOperations()
 while True:
-    print("\n1. Add a key-value pair")
-    print("2. Remove a key-value pair")
-    print("3. Update the value associated with a key")
-    print("4. Check if a key exists")
-    print("5. Retrieve all keys")
-    print("6. Retrieve all values")
-    print("7. Exit")
+    print("""
+    1. Add a key-value pair"
+    2. Remove a key-value pair"
+    3. Update the value associated with a key"
+    4. Check if a key exists"
+    5. Retrieve all keys"
+    6. Retrieve all values"
+    7. Exit""")
 
-    choice = input("\nEnter your choice: ")
+    ch=int(input("Enter your choice:"))
 
-    if choice == '1':
-        key = input("Enter the key: ")
-        value = input("Enter the value: ")
-        dict_ops.add_pair(key, value)
-    elif choice == '2':
-        key = input("Enter the key to remove: ")
-        dict_ops.remove_pair(key)
-    elif choice == '3':
-        key = input("Enter the key to update: ")
-        value = input("Enter the new value: ")
-        dict_ops.update_value(key, value)
-    elif choice == '4':
-        key = input("Enter the key to check: ")
-        if dict_ops.check_key(key):
-            print("Key exists in the dictionary.")
-        else:
-            print("Key does not exist in the dictionary.")
-    elif choice == '5':
-        print("All keys:", dict_ops.get_all_keys())
-    elif choice == '6':
-        print("All values:", dict_ops.get_all_values())
-    elif choice == '7':
-        print("Exiting the program...")
-        break
-    else:
-        print("Invalid choice. Please enter a valid option.")
+    match ch:
+        case 1:
+            key=input("Enter the key: ")
+            value=input("Enter the value: ")
+            dict_oper.add_key_value(key,value)
+
+        case 2:
+            key=input("Enter the key to remove: ")
+            dict_oper.remove_key_value(key)
+
+        case 3:
+            key=input("Enter the key to update: ")
+            dict_oper.update_key_value(key)
+
+        case 4:
+            key=input("Enter the key to check: ")
+            dict_oper.check_key_value(key)
+
+        case 5:
+            print(f"All keys: {dict_oper.retrieve_key()}")
+
+        case 6:
+            print(f"All Values: {dict_oper.retrieve_value()}")
+
+        case 7:
+            print("----------Exiting Program----------")
+            break
+
+        case default:
+            print("Invalid Choice! Please enter correct value.")

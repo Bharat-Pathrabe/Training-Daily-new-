@@ -1,29 +1,35 @@
-Duration:
-Comment:
+Duration: 1 hour
+Comment: Dedicated time to review and familiarize oneself with Git.
 Activity:
 Description:
+Reviewed the fundamentals of Git version control system.
+Covered basic Git commands such as git init, git add, git commit, git push, git pull, git clone, git branch, git merge, etc.
+Explored Git workflows including centralized, feature branch, and forking workflows.
+Studied branching strategies and best practices for collaborating with others using Git.
 
-Duration:
-Comment:
-Activity:
-Description:
 
-Duration:
-Comment:
+Duration: 4 hours 30 minutes
+Comment: Extensive session dedicated to revising various aspects of Python programming language.
 Activity:
 Description:
+Reviewed core Python concepts including variables, data types, operators, and expressions.
+Revised control flow structures such as if-else statements, loops, and conditional expressions.
+Refreshed knowledge on functions, including function definition, parameters, return values, and scope.
+Revisited Python data structures including lists, tuples, dictionaries, sets, and strings, focusing on their properties and methods.
+Practiced manipulating data structures through built-in functions and methods.
+Reviewed advanced topics such as list comprehensions, lambda functions, and generator expressions.
+Explored file handling in Python, including reading from and writing to files.
+Covered exception handling using try-except blocks to handle errors gracefully.
+Revised object-oriented programming (OOP) concepts such as classes, objects, inheritance, and polymorphism.
 
-Duration:
-Comment:
-Activity:
-Description:
 
-Duration:
-Comment:
+Duration: 2 hours
+Comment: Engaged in a test session to assess proficiency in Python programming.
 Activity:
-Description:
+Description: Module test conducted
 
-Duration:
-Comment:
+Duration: 30 minutes
+Comment: Dedicated time to review and understand mistakes made during the test specifically related to dictionary concepts.
 Activity:
 Description:
+Identified and analyzed mistakes made during the test concerning dictionary operations, methods, and usage.

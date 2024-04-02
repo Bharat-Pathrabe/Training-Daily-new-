@@ -11,7 +11,5 @@ def contains_duplicate(nums):
             seen.add(num)
     return False
 
-nums1 = [1, 2, 3, 1]
-print("Example 1:")
-print("Input:", nums1)
-print("Output:", contains_duplicate(nums1))
+nums1 = [int(element) for element in input("Enter elements for Integer list 1: ").split()]
+print(f"Original list: {nums1} \nOutput: {contains_duplicate(nums1)}")

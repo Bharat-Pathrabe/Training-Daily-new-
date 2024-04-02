@@ -11,6 +11,7 @@ def count_frequency(nums):
             frequency[num] = 1
     return frequency
 
-nums = [1, 2, 3, 2, 1, 3, 2, 4, 5, 4]
+nums= [i for i in input("Enter number space separated").split()]
+print(f"Inputs are:{nums}")
 frequency = count_frequency(nums)
-print("Output:", frequency)
+print(f"Output: {frequency}")

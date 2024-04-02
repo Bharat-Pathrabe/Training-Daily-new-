@@ -10,6 +10,6 @@ def count_vowels(word):
             count += 1
     return count
 
-word = "programming"
+word = input("Enter the word: ")
 vowel_count = count_vowels(word)
-print("Output:", vowel_count)
+print(f"Original word: {word} \nVowel count: {vowel_count}")

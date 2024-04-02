@@ -6,7 +6,7 @@ def have_common_element(list1, list2):
             return True
     return False
 
-list1 = [1, 2, 3, 4, 5]
-list2 = [5, 6, 7, 8, 9]
+list1 = [int(element) for element in input("Enter elements for Integer list 1: ").split()]
+list2 = [int(element) for element in input("Enter elements for Integer list 1: ").split()]
 result = have_common_element(list1, list2)
-print("Output:", result)
+print(f"Original list : \nList 1 : {list1} \nList 2 : {list2} \nOutput: {result}")

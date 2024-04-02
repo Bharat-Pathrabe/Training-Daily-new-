@@ -1,0 +1,21 @@
+Duration: 2:30 hours
+Comment: Practice (dictionary)
+Activity:
+Description:
+
+Duration: 2 hours
+Comment: Dictionary methods
+Activity:
+Description:
+
+
+Duration: 2 hours
+Comment:
+Activity:
+Description:
+
+
+Duration: 2 hours
+Comment:
+Activity:
+Description:
