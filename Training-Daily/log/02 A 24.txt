@@ -1,21 +1,34 @@
-Duration: 2:30 hours
-Comment: Practice (dictionary)
+Duration: 2 hours 30 minutes
+Comment: Dedicated session for practicing dictionary manipulation and operations in Python.
 Activity:
 Description:
+Engaged in a series of exercises and coding challenges focused on dictionary operations.
+Practiced creating dictionaries, adding and removing key-value pairs, and accessing values using keys.
+Implemented dictionary comprehensions to create dictionaries based on specific criteria.
 
 Duration: 2 hours
-Comment: Dictionary methods
+Comment: Focused session dedicated to exploring various methods available for dictionaries in Python.
 Activity:
 Description:
-
+Studied and practiced different dictionary methods available in Python, understanding their functionality and usage.
+Explored methods such as keys(), values(), items(), get(), update(), pop(), popitem(), clear(), etc.
+Learned how each method operates on dictionaries and its impact on the dictionary's content.
+Experimented with different scenarios and use cases to understand when and how to use each method effectively.
 
 Duration: 2 hours
-Comment:
+Comment: Extended session focused on practicing dictionary manipulation and operations.
 Activity:
 Description:
+Engaged in a series of exercises and coding challenges revolving around dictionary operations.
+Further practiced creating, modifying, and accessing dictionaries to reinforce understanding.
 
 
-Duration: 2 hours
-Comment:
+Duration: 1 hour 30 minutes
+Comment: Focused on practicing dictionary manipulation and operations in Python for an extended period.
 Activity:
 Description:
+Engaged in a series of exercises and coding challenges centered around dictionary operations.
+Practiced creating, modifying, and accessing dictionaries to reinforce understanding.
+
+
+
