@@ -1,0 +1,31 @@
+
+Duration: 1 hour
+Comment: Dedicated session focused on learning Git through a Udemy course.
+Activity:
+Description:
+Followed the Git lesson provided in the Udemy course to understand the basics of version control with Git.
+Covered topics such as Git installation, configuration, creating repositories, staging files, committing changes, branching, merging, and remote repositories.
+
+
+Duration: 3 hours
+Comment: Dedicated session focused on practicing dictionary manipulation and operations in Python.
+Activity:
+Description:
+Engaged in a series of exercises and coding challenges centered around dictionary operations.
+Practiced creating, modifying, and accessing dictionaries to reinforce understanding.
+Explored advanced techniques such as nested dictionaries, dictionary comprehensions, and using dictionaries in real-world scenarios.
+
+
+Duration: 1 hour
+Comment: Dedicated session focused on learning fundamental terminal commands.
+Activity:
+Description:
+Covered essential terminal commands for navigation, file manipulation, and system operations.
+Learned commands such as cd (change directory), ls (list files and directories), mkdir (make directory), touch (create empty file), cp (copy), mv (move), rm (remove), cat (concatenate and display file content), grep (search), chmod (change file permissions), and man (manual pages).
+Practiced using terminal commands interactively on the command line interface.
+
+Duration: 3 hours
+Comment: Focused session on creating a menu-driven Python program incorporating dictionary data handling and basic calculator functionality.
+Activity:
+Description:
+Developed a Python program with a menu-driven interface using while loops and if-elif-else statements.
