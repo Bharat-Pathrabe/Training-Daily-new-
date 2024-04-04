@@ -1,0 +1,32 @@
+Duration: 2 hours
+Comment: Focused session on creating menu-driven Python programs to enhance user interaction and functionality.
+Activity:
+Description:
+Developed multiple menu-driven Python programs to perform various tasks based on user input.
+Utilized loops and conditional statements to create interactive menu interfaces.
+Designed user-friendly menus with clear options and instructions.
+
+Duration: 3 hours
+Comment: Focused session on solving problems involving combinations of dictionaries, lists, and tuples.
+Activity:
+Description:
+Explored problems that require manipulating dictionaries alongside lists or tuples in various combinations.
+Practiced creating dictionaries with list or tuple values and accessing their elements.
+Implemented operations such as sorting, filtering, or mapping on dictionary-list or dictionary-tuple combinations.
+Solved problems involving nested dictionaries containing lists or tuples.
+
+
+Duration: 2 hours
+Comment: Engaged in solving various Python programming questions to enhance problem-solving skills and reinforce Python concepts.
+Activity:
+Description:
+Worked on a diverse range of Python problems covering different topics such as strings, lists, dictionaries, loops, functions, and more.
+Solved problems from online platforms, coding challenges, or practice sets.
+Practiced writing efficient and optimized code to solve problems within specified constraints.
+
+Duration: 1 hour
+Comment: Dedicated session to solving questions related to classes, functions, RegEX and file operations.
+Activity:
+Description:
+Worked on questions that involve creating and using classes and functions to perform specific tasks.
+Implemented class methods and functions to manipulate data, perform calculations, or process information.
