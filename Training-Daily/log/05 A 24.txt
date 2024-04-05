@@ -1,0 +1,39 @@
+Duration: 3 hours
+Comment: Extended session dedicated to revising basic Python concepts and solving related questions.
+Activity:
+Description:
+Reviewed fundamental Python concepts such as variables, data types, operators, control structures, functions, and basic data structures (lists, tuples, dictionaries).
+Practiced writing Python code to reinforce understanding of syntax and semantics.
+Engaged in solving a variety of Python programming questions covering basic topics.
+Explored problem-solving techniques and strategies for efficiently tackling Python problems.
+Analyzed problem descriptions and formulated algorithms to solve them.
+Implemented Python code to solve problems, ensuring correctness and efficiency.
+Tested code with different inputs and edge cases to verify its functionality.
+
+
+Duration: 2 hours
+Comment: Focused session dedicated to revising advanced topics in Python.
+Activity:
+Description:
+Reviewed advanced Python concepts and features such as list comprehensions, generator expressions, lambda functions, and decorators.
+Practiced implementing list comprehensions to create concise and efficient code for data manipulation tasks.
+Explored generator expressions and their advantages in terms of memory efficiency and lazy evaluation.
+Studied lambda functions and their use cases for creating anonymous functions in Python.
+Revised decorators and their role in extending the functionality of functions or methods.
+
+
+Duration: 3 hours
+Comment: Engaged in solving complex menu-driven Python programs incorporating advanced features and functionalities.
+Activity:
+Description:
+Worked on designing and implementing advanced menu-driven Python programs with enhanced features.
+Created interactive menu interfaces offering a wide range of options and functionalities.
+Implemented advanced functionalities such as data validation, error handling, and input parsing to ensure robustness and user-friendliness.
+Incorporated object-oriented programming principles to structure the program effectively, using classes and methods to encapsulate functionality.
+Covered a diverse range of tasks such as file management, data manipulation, text processing, and more within the menu-driven framework.
+
+
+Duration:
+Comment: 
+Activity:
+Description:
