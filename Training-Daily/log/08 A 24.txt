@@ -1,0 +1,14 @@
+Duration: 3 hours
+Comment: Dedicated session focused on practicing Python programming through solving various questions and exercises.
+Activity:
+Description:
+Engaged in solving a wide range of Python programming questions and exercises.
+Covered topics including but not limited to strings, lists, dictionaries, control structures, functions, classes, file handling, and algorithms.
+
+Duration: 5 hours
+Comment: Extended session dedicated to creating menu-driven Python programs to enhance user interaction and functionality.
+Activity:
+Description:
+Developed multiple menu-driven Python programs catering to various tasks and functionalities.
+Utilized loops, conditional statements, and functions to create interactive menu interfaces.
+Implemented functions or modules to handle different functionalities corresponding to menu options.
