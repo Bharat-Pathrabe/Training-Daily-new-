@@ -1,0 +1,21 @@
+Duration: 3 hours
+Comment: Engaged in solving a variety of Python practice questions to reinforce programming skills and deepen understanding of Python concepts.
+Activity:
+Description:
+Worked through a diverse set of Python programming questions covering different topics and difficulty levels.
+Addressed questions related to strings, lists, dictionaries, control structures, functions, classes, file handling, and algorithms.
+
+Duration: 3 hours
+Comment: Focused session on working with files, strings, and implementing error handling using try-except blocks.
+Activity:
+Description:
+Practiced reading from and writing to files using Python's file handling capabilities.
+Explored various methods for reading and writing strings to files, including reading entire contents, reading line by line, and writing strings to files.
+
+
+Duration: 2 hours
+Comment: Dedicated session focused on learning Git version control system through W3Schools tutorials.
+Activity:
+Description:
+Followed the structured tutorials provided by W3Schools to understand the basics of Git.
+Covered topics such as Git installation, configuration, creating repositories, staging files, committing changes, branching, merging, and resolving conflicts.

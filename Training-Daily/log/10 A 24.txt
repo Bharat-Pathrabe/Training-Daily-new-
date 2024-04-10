@@ -1,0 +1,22 @@
+Duration: 2 hours 30 minutes
+Comment: Engaged in solving multiple choice questions (MCQs) related to Git version control system.
+Activity:
+Description:
+Solved a series of MCQs covering various aspects of Git, including basic commands, branching, merging, remote repositories, and resolving conflicts.
+Used online platforms, Git documentation, or practice sets to access a wide range of MCQs.
+Analyzed each question carefully, considering all options before selecting the most appropriate answer.
+
+Duration: 2 hours 30 minutes
+Comment: Dedicated session focused on revising various aspects of Python programming language.
+Activity:
+Description:
+Reviewed fundamental Python concepts such as variables, data types, operators, control structures, functions, and basic data structures (lists, tuples, dictionaries).
+Practiced writing Python code snippets to reinforce understanding of syntax and semantics.
+
+Duration: 3 hours
+Comment: Engaged in developing menu-driven Python programs to provide interactive user experiences and offer various functionalities.
+Activity:
+Description:
+Designed and implemented multiple menu-driven Python programs catering to diverse tasks and requirements.
+Utilized loops, conditional statements, and functions to create interactive menu interfaces.
+Ensured user-friendly menus with clear options and instructions to guide users effectively.
