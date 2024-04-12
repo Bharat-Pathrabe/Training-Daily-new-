@@ -1,12 +1,21 @@
-Duration:
-Comment:
+Duration: 4 hours
+Comment: Dedicated session focused on creating an assignment aimed at solving questions from a previous Python test.
 Activity:
 Description:
+Reviewed and solved the questions and problems from the previous Python test.
 
-Duration:
-Comment:
+Duration: 4 hours
+Comment: Engaged in an in-depth exploration of the Matplotlib module for data visualization in Python.
 Activity:
 Description:
+Explored the functionalities and capabilities of the Matplotlib module for creating various types of plots and visualizations.
+Reviewed documentation, tutorials, and examples to understand the syntax and usage of Matplotlib functions.
+Learned how to create basic plots such as line plots, scatter plots, bar plots, and histograms using Matplotlib.
+Experimented with customization options to adjust plot styles, colors, markers, labels, and legends.
+
+
+
+
 
 Duration:
 Comment:
