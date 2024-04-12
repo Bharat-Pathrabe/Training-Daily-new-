@@ -1,4 +1,34 @@
-Duration:
-Comment:
+Duration: 2 hours
+Comment: Engaged in exploring new topics and concepts related to Python programming language.
 Activity:
 Description:
+Researched and studied new and advanced topics in Python to broaden understanding and skills.
+Explored topics such as advanced data structures, algorithms, libraries, frameworks, or Python ecosystem tools.
+Read articles, documentation, tutorials, or books on the selected topics to gain insights and knowledge.
+
+Duration: 3 hours 30 minutes
+Comment: Dedicated session focused on preparing for an upcoming test, covering various aspects of Python programming.
+Activity:
+Description:
+Reviewed test topics and syllabus to identify key areas for preparation.
+Organized study materials, including textbooks, notes, online resources, and practice tests.
+Reviewed fundamental Python concepts such as variables, data types, operators, control structures, functions, and basic data structures (lists, tuples, dictionaries).
+Practiced solving Python programming questions and exercises from previous tests, assignments, or online platforms.
+Covered advanced topics including object-oriented programming (OOP) concepts, file handling, exception handling, and modules.
+
+
+Duration: 2 hours 30 minutes
+Comment: Participated in a Python test administered by a mentor to assess Python programming skills and knowledge.
+Activity:
+Description:
+Took the Python test conducted by the mentor, which included a variety of questions covering different aspects of Python programming.
+
+Duration: 30 minutes
+Comment: Dedicated session focused on reviewing the questions from the recently conducted Python test.
+Activity:
+Description:
+Reviewed each question from the Python test administered by the mentor.
+Analyzed the questions to understand the underlying concepts being assessed.
+Identified any questions that were challenging or unclear during the test.
+Reflected on the approach taken to solve each question and considered alternative solutions or strategies.
+Reviewed correct answers and explanations provided by the mentor for questions that were answered incorrectly.
