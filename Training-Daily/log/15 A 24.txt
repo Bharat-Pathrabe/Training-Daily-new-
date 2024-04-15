@@ -1,0 +1,26 @@
+Duration: 2 hours 30 minutes
+Comment: Engaged in a comprehensive review of the Matplotlib module for data visualization in Python.
+Activity:
+Description:
+Reviewed the key concepts and functionalities of Matplotlib for creating visualizations.
+Refreshed understanding of basic plotting techniques such as line plots, scatter plots, bar plots, and histograms.
+Revised customization options including colors, markers, labels, legends, and plot styles.
+
+Duration: 3 hours 30 minutes
+Comment: Engaged in a focused session dedicated to practicing regular expressions (RegEx) with various practice questions.
+Activity:
+Description:
+Reviewed the fundamentals of regular expressions, including metacharacters, quantifiers, character classes, and groups.
+Explored different RegEx functions and methods available in Python, such as re.match(), re.search(), re.findall(), and re.sub().
+Solved a variety of RegEx practice questions covering common patterns and use cases, such as matching email addresses, URLs, phone numbers, dates, and special characters.
+
+
+Duration: 2 hours
+Comment: Initiated learning about the NumPy library for numerical computing in Python.
+Activity:
+Description:
+Introduced to the basic concepts and functionalities of NumPy.
+Learned about arrays, the core data structure in NumPy, and their advantages over traditional Python lists for numerical computations.
+Explored how to create NumPy arrays using various methods such as numpy.array(), numpy.zeros(), numpy.ones(), numpy.arange(), and numpy.linspace().
+Reviewed the attributes of NumPy arrays including shape, size, and data type.
+Practiced basic array manipulation techniques such as indexing, slicing, and reshaping arrays.

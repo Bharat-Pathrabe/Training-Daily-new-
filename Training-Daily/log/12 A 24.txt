@@ -15,15 +15,3 @@ Experimented with customization options to adjust plot styles, colors, markers, 
 
 
 
-
-
-Duration:
-Comment:
-Activity:
-Description:
-
-Duration:
-Comment:
-Activity:
-Description:
-
