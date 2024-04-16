@@ -1,0 +1,26 @@
+Duration: 2 hours
+Comment: Dedicated session to revise various aspects of Python programming language.
+Activity:
+Description:
+Reviewed fundamental Python concepts including variables, data types, operators, and control structures (if statements, loops).
+Refreshed understanding of functions, modules, and basic file I/O operations in Python.
+Practiced solving coding exercises and problems covering a wide range of Python topics.
+
+Duration: 2 hours
+Comment: Focused session dedicated to revising concepts and techniques in Matplotlib for data visualization.
+Activity:
+Description:
+Reviewed fundamental concepts of data visualization using Matplotlib.
+Refreshed knowledge of basic plot types such as line plots, scatter plots, bar plots, and histograms.
+Practiced creating and customizing plots using Matplotlib's pyplot interface.
+Revisited advanced plotting techniques including subplotting, annotations, and axis manipulation.
+
+Duration: 4 hours
+Comment: Engaged in an extensive session to initiate learning about the NumPy library for numerical computing in Python.
+Activity:
+Description:
+Introduced to the fundamental concepts and functionalities of NumPy.
+Learned about the advantages of NumPy arrays over traditional Python lists for numerical computations.
+Explored various methods to create NumPy arrays, including numpy.array(), numpy.zeros(), numpy.ones(), numpy.arange(), and numpy.linspace().
+Reviewed the attributes of NumPy arrays such as shape, size, and data type.
+Practiced basic array manipulation techniques like indexing, slicing, and reshaping.
