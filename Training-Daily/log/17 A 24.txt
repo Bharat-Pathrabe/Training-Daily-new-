@@ -1,0 +1,38 @@
+Duration: 1 hour
+Comment: Participated in a meeting to receive briefing and instructions for an assignment.
+Activity:
+Description:
+Joined the meeting conducted by the instructor or project manager to receive details about the assignment.
+Listened attentively to the briefing provided, including the objectives, requirements, and expectations for the assignment.
+Took notes on key points discussed during the meeting, including deadlines, deliverables, and evaluation criteria.
+Asked questions or sought clarification on any aspects of the assignment that were unclear or required further explanation.
+Discussed any potential challenges or concerns regarding the assignment requirements and how they would be addressed.
+Discussed the format or structure of the assignment deliverables and any specific guidelines for submission.
+Clarified expectations regarding collaboration, if applicable, and discussed how group work would be coordinated.
+
+Duration: 1 hour
+Comment: Engaged in research activities to gather information and resources relevant to the assigned task.
+Activity:
+Description:
+Conducted online research using search engines, academic databases, and relevant websites to gather information related to the assignment topic.
+
+
+Duration: 2 hours
+Comment: Initiated learning about the SciPy library for scientific computing in Python.
+Activity:
+Description:
+Introduced to the fundamental concepts and functionalities of SciPy.
+Learned about the capabilities of SciPy for numerical integration, optimization, interpolation, and statistical analysis.
+Explored various modules and subpackages available in SciPy, such as scipy.integrate, scipy.optimize, scipy.interpolate, and scipy.stats.
+Reviewed the documentation and examples provided by SciPy to understand how to use its functions and classes effectively.
+Practiced with examples and exercises to gain hands-on experience with SciPy's functionality.
+
+Duration: 4 hours
+Comment: Initiated learning about fundamental concepts in machine learning and explored basic statistical measures.
+Activity:
+Description:
+Started learning about machine learning (ML) concepts and its applications in various domains.
+Reviewed fundamental statistical measures including mean, mode, median, standard deviation, and percentile.
+Explored data distribution and its importance in understanding the underlying characteristics of datasets.
+Learned about normal data distribution (normal distribution or Gaussian distribution) and its properties.
+Explored basic concepts of regression analysis including linear regression, polynomial regression, and multiple regression.
