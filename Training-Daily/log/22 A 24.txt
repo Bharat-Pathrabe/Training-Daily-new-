@@ -1,0 +1,6 @@
+Duration: 8 hours
+Comment: Engaged in completing an assignment.
+Activity:
+Description:
+Focused on the assigned task for the entire duration.
+

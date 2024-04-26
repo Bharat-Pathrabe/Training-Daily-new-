@@ -1,0 +1,12 @@
+Duration: 8 hours
+Comment: Dedicated session focused on studying SQL concepts and queries from W3Schools.
+Activity:
+Description:
+Started with the basics of SQL, including database creation, table creation, and basic queries.
+Learned about SQL syntax, data types, and constraints for creating and manipulating database tables.
+Practiced writing SQL queries to retrieve data using SELECT statements with various clauses such as WHERE, ORDER BY, GROUP BY, and HAVING.
+Explored different types of joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN) to combine data from multiple tables.
+Learned about aggregate functions (COUNT, SUM, AVG, MAX, MIN) and how to use them to perform calculations on grouped data.
+Studied subqueries and their usage in SQL queries for advanced data retrieval and manipulation.
+Experimented with real-world datasets or sample databases to apply SQL queries to practical scenarios.
+
